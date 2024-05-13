@@ -16,11 +16,11 @@
     margin: 4rem 9rem;
 }
 
-.hero-mid .searchBar {
+.hero-mid button {
     display: none;
 }
 
-.hero-mid button {
+.hero-mid .searchBar {
     display: none;
 }
 
@@ -63,9 +63,12 @@
     width: 40%;
     height: 35px;
     font-size: 1rem;
-    padding: 0 5px;
+    padding: 0 6px;
     margin-left: 2.2rem;
+    outline: none;
+    border: none;
 }
+
 
 .hero-text button {
     padding: 4px 10px;
@@ -77,10 +80,10 @@
 }
 
 .hero-text button:hover {
-    background-color: #47a2a5;
-    color: black;
+    background-color: #000;
+    color: #47a2a5;
     cursor: pointer;
-    transition: 0.3s ease-in;
+    transition: 0.2s ease;
 }
 
 @media screen and (max-width:850px) {

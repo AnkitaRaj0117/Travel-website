@@ -30,12 +30,12 @@
 .form-container button {
     margin: 2rem 0;
     font-size: 2rem;
-    background-color: rgba(26, 23, 23, 0.226);
+    background-color: rgba(26, 23, 23, 1);
 }
 
 .form-container button:hover {
-    color: rgb(238, 238, 238);
-    background-color: black;
+    color: rgb(0, 0, 0);
+    background-color: #fff;
 }
 
 @media screen and (max-width:850px) {
