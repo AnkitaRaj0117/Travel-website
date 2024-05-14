@@ -1,4 +1,5 @@
 import "./Trip.css"
+import React from "react";
 
 function TripData(props) {
     return (

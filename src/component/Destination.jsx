@@ -1,3 +1,4 @@
+import React from "react"
 import "./Destination.css"
 import temple1 from "../assets/1.jpg"
 import temple2 from "../assets/2.jpg"

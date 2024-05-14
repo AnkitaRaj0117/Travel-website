@@ -1,3 +1,4 @@
+import React from "react";
 function DestinationData(props) {
     return (
         <div className={props.className}>

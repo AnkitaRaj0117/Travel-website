@@ -1,4 +1,5 @@
 import "./Trip.css"
+import React from "react";
 import TripData from "./TripData";
 import trip1 from "../assets/6.jpg"
 import trip2 from "../assets/7.jpg"
